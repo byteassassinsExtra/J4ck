@@ -59,7 +59,7 @@ MAGENTA = '\033[95m'
 
 # Function to print the banner
 def print_banner():
-    banner = """
+    banner =
 :::!~!!!!!:.
                   .xUHWH!! !!?M88WHX:.
                 .X*#M@$!!  !X!M$$$$$$WWx:.
@@ -83,7 +83,7 @@ $R@i.~~ !     :   ~$$$$$B$$en:``
 
 By: byteassassins
 
-"""
+
     print(BANNER + RESET)
 
 # Print the banner
